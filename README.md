@@ -1,6 +1,7 @@
 # Retail_orders
 It is divided into two a Jupyter Notebook that uses python and sql to analyze the dataset and a visualization table 
-Overview
+
+##Overview
 This Jupyter Notebook is designed to demonstrate how to use Python and SQL to analyze a retail dataset from Kaggle. It covers data loading, cleaning, transformation, and analysis to extract insights from the data.
 
 ## Table of Contents of the Jupyter Notebook
